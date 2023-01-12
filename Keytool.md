@@ -1,4 +1,4 @@
-# Keytool CheatSheet 🔐
+# Keytool CheatSheet 
 
 ## Some history
 This cheat sheet came into life when I started working on a tutorial of setting up one way tls and two way tls, which can be found here: [GitHub - Mutual TLS SSL](https://github.com/Hakky54/mutual-tls-ssl)
